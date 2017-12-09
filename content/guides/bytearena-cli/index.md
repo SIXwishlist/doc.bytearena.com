@@ -9,11 +9,17 @@ Refer to [Installing / Upgrading Byte Arena](/guides/installing-bytearena) for i
 
 ## Commands
 
-### `ba map update`
+### `ba generate`
 
-TODOC
+Used to scaffold the code of an agent for a specified language.
 
-### `ba map list`
+Usage:
+
+```bash
+ba generate sample-name
+```
+
+### `ba build`
 
 TODOC
 
@@ -21,10 +27,10 @@ TODOC
 
 TODOC
 
-### `ba generate`
+### `ba map update`
 
 TODOC
 
-### `ba build`
+### `ba map list`
 
 TODOC
